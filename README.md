@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mHalo&theme=dark&border_radius=5.6&locale=zh_Hans&count_private=true&card_width=600)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mHalo&theme=dark&layout=compact&count_private=true&card_width=600)'
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mHalo&theme=dark&layout=compact&count_private=true&card_width=600)
 
 ![](https://github-readme-stats.vercel.app/api?username=mHalo&theme=dark&show_icons=true&count_private=true&card_width=600)
 
