@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorlxy&theme=dark&layout=compact)'
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mHalo&theme=dark&layout=compact)'
 
-![](https://github-readme-stats.vercel.app/api?username=meteorlxy&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=mHalo&theme=dark&show_icons=true)
 
 <!--
 **mHalo/mHalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
